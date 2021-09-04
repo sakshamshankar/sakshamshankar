@@ -1,7 +1,7 @@
-- 👋 Hi, I’m saksham shankar
+- 👋 Hello, myself saksham shankar
 - 👀 I’m interested in learning new tech.
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me- mail: sakshamshankar3@gmail.com 
+- 🌱 I’m currently learning and working on Flutter-Dart.
+- 📫 You can reach me via mail: sakshamshankar3@gmail.com 
 
 <!---
 sakshamshankar/sakshamshankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
